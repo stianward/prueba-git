@@ -1,0 +1,9 @@
+#cuadro{
+    width:800px;
+    height: 300px;
+    overflow-y: scroll;
+    
+    background-color:white;
+    border:blue;
+        
+}
